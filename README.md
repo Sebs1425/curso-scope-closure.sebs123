@@ -1,0 +1,1 @@
+# curso-scope-closure.sebs123
